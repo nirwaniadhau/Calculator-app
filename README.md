@@ -4,4 +4,5 @@ This calculator project was built as part of my practice while learning **React*
 
 It helped reinforce core concepts of component-based architecture, state management, event handling, and basic styling using CSS and Bootstrap.
 
-> 📌 Deployed live using GitHub Pages.
+This project is deployed on **GitHub Pages**.  
+🔗 [View it Live](https://nirwaniadhau.github.io/Calculator-app/)
