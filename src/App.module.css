@@ -1,0 +1,67 @@
+
+.calculator{
+    border:1px solid #555;
+    border-radius: 10px;;
+    width:240px;
+}
+/* .calculator {
+  background: rgba(159, 36, 36, 0.1);
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3),
+              -10px -10px 30px rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+} */
+
+
+/* .appContainer {
+  background: linear-gradient(135deg, #1f1f2e, #3c4a6b);
+;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', sans-serif;
+} */
+
+/* .appContainer {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); /* Deep ocean-like tone */
+  /* height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+ */ 
+ .appContainer {
+  background: linear-gradient(135deg, #0d0d0d, #1a1a2e); /* deep charcoal to dark blue */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.calculator {
+  background: rgba(157, 158, 159, 0.15); /* light frosted glass */
+  border-radius: 20px;
+  padding: 20px;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+
+
+
+/* .calculator {
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 20px;
+  padding: 20px;
+  backdrop-filter: blur(25px);
+  -webkit-backdrop-filter: blur(25px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+} */
